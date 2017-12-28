@@ -4,3 +4,5 @@
 - Use OpenBSD style(9) for function prototypes and declarations?
 - Avoid reading the whole file in memory before parsing?
 - Allow reading from stdin?
+- Fix Travis CI build, need to install libansilove before building
+- Update documention to mention libansilove and drop GD from requirements
